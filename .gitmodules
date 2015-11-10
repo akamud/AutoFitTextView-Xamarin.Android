@@ -1,0 +1,3 @@
+[submodule "vendor/android-autofittextview"]
+	path = vendor/android-autofittextview
+	url = https://github.com/grantland/android-autofittextview
