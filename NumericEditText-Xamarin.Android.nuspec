@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>AutoFitTextView-Xamarin.Android</id>
+        <version>0.2.1</version>
+        <title>AutoFitTextView-Xamarin.Android</title>
+        <authors>Mahmoud Ali</authors>
+        <owners>Mahmoud Ali</owners>
+        <licenseUrl>https://raw.githubusercontent.com/akamud/AutoFitTextView-Xamarin.Android/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/akamud/AutoFitTextView-Xamarin.Android</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A TextView that automatically resizes text to fit perfectly within its bounds.</description>
+        <summary>A TextView that automatically resizes text to fit perfectly within its bounds.</summary>
+        <tags>xamarin xamarin-android</tags>
+    </metadata>
+    <files>
+        <file src="AutoFitTextView-Xamarin.Android\bin\Release\AutoFitTextView-Xamarin.Android.dll" target="lib\MonoAndroid\AutoFitTextView-Xamarin.Android.dll" />
+    </files>
+</package>
