@@ -9,7 +9,8 @@
         <licenseUrl>https://raw.githubusercontent.com/akamud/AutoFitTextView-Xamarin.Android/master/LICENSE</licenseUrl>
         <projectUrl>https://github.com/akamud/AutoFitTextView-Xamarin.Android</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>A TextView that automatically resizes text to fit perfectly within its bounds.</description>
+        <description>Xamarin Bindings for android-autofittextview project. 
+A TextView that automatically resizes text to fit perfectly within its bounds.</description>
         <summary>A TextView that automatically resizes text to fit perfectly within its bounds.</summary>
         <tags>xamarin xamarin-android</tags>
     </metadata>
