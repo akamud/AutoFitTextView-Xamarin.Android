@@ -12,7 +12,7 @@ PM> Install-Package AutoFitTextView-Xamarin.Android
 ```
 
 ## Using
-You can use the defiend AutofitTextView widget:
+You can use the defined AutofitTextView widget:
 ```XML
 <me.grantland.widget.AutofitTextView
     android:id="@+id/output_autofit"
