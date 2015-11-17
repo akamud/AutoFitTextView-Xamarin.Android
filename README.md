@@ -11,6 +11,10 @@ A TextView that automatically resizes text to fit perfectly within its bounds.
 PM> Install-Package AutoFitTextView-Xamarin.Android
 ```
 
+## Gif example
+
+![](https://raw.githubusercontent.com/akamud/AutoFitTextView-Xamarin.Android/master/autofit.gif)
+
 ## Using
 You can use the defined AutofitTextView widget:
 ```XML
